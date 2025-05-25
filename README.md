@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Monish Kumar!
 
-🎓 Pre-Final Year B.E. ECE Student at Easwari Engineering College (SRM Group)  
+🎓 Pre-Final Year Student at Easwari Engineering College (SRM Group)  
 💻 Aspiring Software & Web Developer | ML & Deep Learning Enthusiast  
 
 ---
@@ -35,6 +35,11 @@ I’m passionate about building impactful software solutions and exploring the p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=monishkumar3499&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=monishkumar3499&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=monishkumar3499&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
