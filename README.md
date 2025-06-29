@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Monish Kumar!
 
-🎓 Pre-Final Year Student at Easwari Engineering College (SRM Group)  
+🎓 Final Year Student at Easwari Engineering College (SRM Group)  
 💻 Aspiring Software & Web Developer | ML & Deep Learning Enthusiast  
 
 ---
