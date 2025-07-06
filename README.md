@@ -36,15 +36,6 @@ I’m passionate about building impactful software solutions and exploring the p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 </p>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=monishkumar3499&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=monishkumar3499&theme=apprentice&hide_border=false)<br/>
-
-
----
 
 ## 📫 Let's Connect!
 
