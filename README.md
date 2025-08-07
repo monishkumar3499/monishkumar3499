@@ -53,4 +53,4 @@ I'm a final-year engineering student with a deep interest in software developmen
 
 ---
 
-> *"It is important to follow your dreams and heart. Do something that excites you."* – **Sundar Pichai**
+> *"It is important to follow your dreams and heart. Do something that excites you."*
