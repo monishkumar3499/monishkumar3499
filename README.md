@@ -7,7 +7,7 @@ I'm a final-year engineering student with a deep interest in software developmen
 ## 💡 About Me
 
 - 🚀 Specialized in **Full Stack Web Development** and **Machine Learning**
-- 🔬 Hands-on experience in deploying **Deep Learning models** for real-world CV and NLP tasks
+- 🔬 Hands-on experience in deploying **Machine Learning models** for real-world CV and NLP tasks
 - 💡 Solid understanding of **System Design principles** and modern software architecture practices
 - 🤺 Active **Competitive Programmer** with **300+ problems solved** on **LeetCode** and **GeeksforGeeks**
 
