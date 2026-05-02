@@ -1,140 +1,51 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Monish%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=S%20o%20f%20t%20w%20a%20r%20e%C2%A0%C2%A0%C2%A0E%20n%20g%20i%20n%20e%20e%20r&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
-</div>
+![banner](https://raw.githubusercontent.com/monishkumar3499/monishkumar3499/main/banner.svg)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/monishkumar-v/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:monishkumar3499@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/monishkumar3499">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=monishkumar3499&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
+## Hey! 👋
 
-<br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=monishkumar3499.monishkumar3499) [![GitHub followers](https://img.shields.io/github/followers/monishkumar3499?label=Follow&style=social)](https://github.com/monishkumar3499)
 
+I'm Monish Kumar V!
 
-## 💡 About Me
+- Trainee Software Engineer at **JMAN Group**, building distributed microservices and AI-powered platforms.
+- Final year B.E. student at **Easwari Engineering College (Anna University)**, Chennai.
+- Top 6 Nationally at **Smart India Hackathon 2025** out of 10,000+ teams.
+- Global Rank **3,179** at **Meta Hacker Cup 2025**, advanced to Round 2.
 
-- 🎯 Currently working as **Trainee Software Engineer**
-- 🚀 **Full Stack Developer** — Building scalable, responsive web apps with modern frameworks  
-- 🤖 **Machine Learning Engineer** — Developing and deploying Computer Vision & NLP models  
-- 🏗️ **System Design Enthusiast** — Passionate about designing clean, scalable architectures  
-- 💻 **Competitive Programmer** — 500+ DSA problems solved across platforms  
+## 💻 I'm Currently Working on
 
+- Agentic AI systems using **LangGraph**, **MCP**, and **LLMs**
+- Distributed microservices platforms on **AWS** (EC2, ELB, RDS)
+- Production ML pipelines — churn prediction, document classification, NLP
 
----
+## Check out my GitHub repositories:
 
-## 🛠️ Tech Stack
+[![Finn - AI Finance Agent](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=expense-tracking-agent&theme=default)](https://github.com/monishkumar3499/expense-tracking-agent)
+[![B2B Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=customer-churn-analysis&theme=default)](https://github.com/monishkumar3499/customer-churn-analysis)
 
-### 🎯 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-</p>
+[![AI Document Classifier](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=document-manager&theme=default)](https://github.com/monishkumar3499/document-manager)
 
----
+## 📊 Stats
 
-### 🚀 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40" height="40"/>
-</p>
+**GitHub Stats:**
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monishkumar3499&count_private=true&show_icons=true&theme=default)](https://github.com/monishkumar3499)
 
-### 🧠 Backend 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" width="40" height="40"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=monishkumar3499&theme=default&hide_border=false)](https://github.com/monishkumar3499)
 
+**Top Languages:**
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monishkumar3499&layout=compact)](https://github.com/monishkumar3499)
 
-### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
-</p>
+## About Monish ⚡:
 
+I'm a Software Engineering student in Chennai, India. I love building things that sit at the intersection of AI and real-world systems — from agentic finance tools to document classifiers used in production. Outside tech, I enjoy competitive programming and exploring new ideas in system design.
 
----
+- Check out my LinkedIn: [linkedin.com/in/monishkumar-v](https://linkedin.com/in/monishkumar-v/)
+- Solved **600+ problems** across LeetCode, Codeforces, and HackerRank
+- Write to me: [monishkumar3499@gmail.com](mailto:monishkumar3499@gmail.com)
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
-</p>
+## 📫 How to reach me:
 
----
-
-### ☁️ Cloud
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="60" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
-</p>
-
----
-
-### 🧰 Development Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/>
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-- 💪 **500+ Problems Solved**
-- 🎯 Active on **LeetCode** & **Codeforces**
-- 🧠 Strong in **DSA, Problem Solving, and Optimization**
-
----
-
-## 📊 Current Focus
-
-- 🔥 Advanced System Design  
-- 🤖 Production ML pipelines  
-- ☁️ Cloud-native deployments  
-
----
-
-## 📫 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/monishkumar-v/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:monishkumar3499@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/monishkumar3499"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-  <i><b>"Code. Scale. Optimize. Repeat."</b></i><br/>
-  <sub>— Monish Kumar</sub>
-</div>
-
+<a href="mailto:monishkumar3499@gmail.com">![monishkumar3499@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/monishkumar-v/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://leetcode.com/u/Mon1shkumar/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
