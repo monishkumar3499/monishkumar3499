@@ -74,6 +74,8 @@ I'm Monish Kumar!
 ### 📄 AI Document Classification System  
 🔗 https://github.com/monishkumar3499/document-manager  
 
+---
+
 ## 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=monishkumar3499&theme=default&hide_border=false)](https://github.com/monishkumar3499)
