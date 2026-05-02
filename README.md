@@ -75,12 +75,12 @@ I'm Monish Kumar!
     <img src="https://leetcard.jacoblin.cool/Mon1shkumar?theme=light&font=baloo&ext=heatmap" height="170"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/monishkumar3499">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=monishkumar3499" height="170"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/army_whisper">
     <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/monishkumar3499">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
   </a>
 </p>
 
