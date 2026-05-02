@@ -1,0 +1,101 @@
+<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softShadow">
+      <feDropShadow dx="1" dy="2" stdDeviation="3" flood-color="#00000022"/>
+    </filter>
+  </defs>
+
+  <!-- White background -->
+  <rect width="860" height="220" fill="#ffffff"/>
+
+  <!-- ===== YELLOW BRUSHSTROKE (right ~60% of canvas) ===== -->
+  <!-- Core body of stroke -->
+  <ellipse cx="600" cy="110" rx="290" ry="96" fill="#FFD700"/>
+  <!-- Rough top feathering -->
+  <ellipse cx="520" cy="24"  rx="180" ry="26" fill="#FFD700" opacity="0.75"/>
+  <ellipse cx="650" cy="18"  rx="160" ry="20" fill="#FFD700" opacity="0.7"/>
+  <ellipse cx="790" cy="28"  rx="100" ry="18" fill="#FFD700" opacity="0.65"/>
+  <!-- Rough bottom feathering -->
+  <ellipse cx="530" cy="196" rx="170" ry="22" fill="#FFD700" opacity="0.72"/>
+  <ellipse cx="670" cy="200" rx="155" ry="19" fill="#FFD700" opacity="0.68"/>
+  <ellipse cx="800" cy="192" rx="85"  ry="17" fill="#FFD700" opacity="0.6"/>
+  <!-- Right blobs to fill edge -->
+  <ellipse cx="810" cy="110" rx="65"  ry="80" fill="#FFD700" opacity="0.9"/>
+  <!-- Splatter dots left edge -->
+  <circle cx="310" cy="80"  r="7"  fill="#FFD700" opacity="0.55"/>
+  <circle cx="302" cy="100" r="4"  fill="#FFD700" opacity="0.45"/>
+  <circle cx="316" cy="118" r="5"  fill="#FFD700" opacity="0.4"/>
+  <circle cx="308" cy="138" r="6"  fill="#FFD700" opacity="0.5"/>
+  <!-- Splatter top -->
+  <circle cx="440" cy="8"  r="5" fill="#FFD700" opacity="0.5"/>
+  <circle cx="460" cy="3"  r="3" fill="#FFD700" opacity="0.4"/>
+  <!-- Splatter bottom -->
+  <circle cx="450" cy="212" r="5" fill="#FFD700" opacity="0.45"/>
+  <circle cx="472" cy="217" r="3" fill="#FFD700" opacity="0.35"/>
+
+  <!-- ===== LEFT TEXT AREA ===== -->
+  <text x="28" y="88"  font-family="Georgia, serif" font-size="30" font-weight="700" fill="#111111">Monish Kumar V</text>
+  
+
+  <!-- Affiliation pills -->
+  <rect x="28"  y="112" width="100" height="26" rx="13" fill="#0f172a"/>
+  <text x="78"  y="129" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">JMAN Group</text>
+  <rect x="138" y="112" width="136" height="26" rx="13" fill="#1e3a5f"/>
+  <text x="206" y="129" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">Anna University</text>
+
+
+  <!-- Role text below pills -->
+  <text x="151" y="171" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#222222" text-anchor="middle">Software Engineer</text>
+  <text x="151" y="189" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#555555" text-anchor="middle">(Full Stack Development &amp; AI/ML)</text>
+
+  <!-- ===== ILLUSTRATED AVATAR (centered in yellow, right-of-center) ===== -->
+  <!-- Positioned at cx=560, head center y=105 -->
+
+  <!-- Body / shirt -->
+  <ellipse cx="560" cy="200" rx="78" ry="50" fill="#1d4ed8"/>
+  <!-- Shirt V-collar -->
+  <polygon points="538,158 560,178 582,158 576,148 544,148" fill="#1e40af"/>
+  <!-- Neck -->
+  <rect x="548" y="136" width="24" height="18" rx="4" fill="#c9956a"/>
+
+  <!-- Head base -->
+  <ellipse cx="560" cy="112" rx="54" ry="58" fill="#c9956a"/>
+
+  <!-- Hair -->
+  <ellipse cx="560" cy="66"  rx="54" ry="24" fill="#1c0f00"/>
+  <ellipse cx="525" cy="76"  rx="20" ry="32" fill="#1c0f00"/>
+  <ellipse cx="595" cy="76"  rx="20" ry="32" fill="#1c0f00"/>
+  <ellipse cx="560" cy="60"  rx="44" ry="16" fill="#1c0f00"/>
+  <!-- Forehead coverage -->
+  <ellipse cx="560" cy="74"  rx="44" ry="16" fill="#1c0f00"/>
+
+  <!-- Ears -->
+  <ellipse cx="506" cy="114" rx="10" ry="13" fill="#c9956a"/>
+  <ellipse cx="614" cy="114" rx="10" ry="13" fill="#c9956a"/>
+
+  <!-- Glasses (round, thick frames) -->
+  <circle cx="540" cy="114" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="580" cy="114" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <!-- Bridge -->
+  <line x1="558" y1="114" x2="562" y2="114" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- Temples -->
+  <line x1="522" y1="114" x2="506" y2="114" stroke="#1a1a1a" stroke-width="2.5"/>
+  <line x1="598" y1="114" x2="614" y2="114" stroke="#1a1a1a" stroke-width="2.5"/>
+
+  <!-- Eyes -->
+  <circle cx="540" cy="115" r="9" fill="#2d1500"/>
+  <circle cx="580" cy="115" r="9" fill="#2d1500"/>
+  <circle cx="543" cy="112" r="2.5" fill="#ffffff"/>
+  <circle cx="583" cy="112" r="2.5" fill="#ffffff"/>
+
+  <!-- Eyebrows -->
+  <path d="M524 100 Q540 95 556 99" stroke="#1c0f00" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M564 99 Q580 95 596 100" stroke="#1c0f00" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <ellipse cx="560" cy="130" rx="5" ry="5" fill="#b07a50"/>
+
+  <!-- Smile -->
+  <path d="M544 143 Q560 154 576 143" stroke="#7a4020" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+
+</svg>
