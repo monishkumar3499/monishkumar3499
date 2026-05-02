@@ -21,7 +21,6 @@ I'm Monish Kumar!
 
 [![Finn - AI Finance Agent](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=expense-tracking-agent&theme=default)](https://github.com/monishkumar3499/expense-tracking-agent)
 [![B2B Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=customer-churn-analysis&theme=default)](https://github.com/monishkumar3499/customer-churn-analysis)
-
 [![AI Document Classifier](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=document-manager&theme=default)](https://github.com/monishkumar3499/document-manager)
 
 ## 📊 Stats
@@ -32,20 +31,8 @@ I'm Monish Kumar!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=monishkumar3499&theme=default&hide_border=false)](https://github.com/monishkumar3499)
 
-**Top Languages:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monishkumar3499&layout=compact)](https://github.com/monishkumar3499)
-
-## About Monish ⚡:
-
-I'm a Software Engineering student in Chennai, India. I love building things that sit at the intersection of AI and real-world systems — from agentic finance tools to document classifiers used in production. Outside tech, I enjoy competitive programming and exploring new ideas in system design.
-
-- Check out my LinkedIn: [linkedin.com/in/monishkumar-v](https://linkedin.com/in/monishkumar-v/)
-- Solved **600+ problems** across LeetCode, Codeforces, and HackerRank
-- Write to me: [monishkumar3499@gmail.com](mailto:monishkumar3499@gmail.com)
 
 ## 📫 How to reach me:
 
 <a href="mailto:monishkumar3499@gmail.com">![monishkumar3499@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/monishkumar-v/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://leetcode.com/u/Mon1shkumar/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
