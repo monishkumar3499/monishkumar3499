@@ -27,6 +27,7 @@ I'm Monish Kumar!
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8b5cf6?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6366f1?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-9333ea?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-10b981?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-ef4444?style=for-the-badge)
 
@@ -60,6 +61,28 @@ I'm Monish Kumar!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🧠 Competitive Programming
+
+<p align="center">
+  <b>💡 Solved 700+ problems across LeetCode, Codeforces, and CodeChef — strong foundation in Data Structures & Algorithms</b>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Mon1shkumar/">
+    <img src="https://leetcard.jacoblin.cool/Mon1shkumar?theme=light&font=baloo&ext=heatmap" height="170"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/army_whisper">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/monishkumar3499">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
+  </a>
+</p>
 
 ---
 
