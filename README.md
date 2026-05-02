@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/monishkumar3499/monishkumar3499/main/banner.svg)
 
-## Hey! 👋
+## Hey There! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monishkumar3499.monishkumar3499) [![GitHub followers](https://img.shields.io/github/followers/monishkumar3499?label=Follow&style=social)](https://github.com/monishkumar3499)
 
@@ -13,14 +13,16 @@ I'm Monish Kumar!
 
 ## 💻 I'm Currently Working on
 
-- Agentic AI systems using **LangGraph**, **MCP**, and **LLMs**
-- Distributed microservices platforms on **AWS** (EC2, ELB, RDS)
+- Agentic AI systems using **LangChain**, **LangGraph**, **MCP**, and **LLMs**
+- Distributed microservices platforms on **AWS** (EC2, ELB, RDS), **Azure**
 - Production ML pipelines — churn prediction, document classification, NLP
 
 ## Check out my GitHub repositories:
 
 [![Finn - AI Finance Agent](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=expense-tracking-agent&theme=default)](https://github.com/monishkumar3499/expense-tracking-agent)
+
 [![B2B Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=customer-churn-analysis&theme=default)](https://github.com/monishkumar3499/customer-churn-analysis)
+
 [![AI Document Classifier](https://github-readme-stats.vercel.app/api/pin/?username=monishkumar3499&repo=document-manager&theme=default)](https://github.com/monishkumar3499/document-manager)
 
 ## 📊 Stats
