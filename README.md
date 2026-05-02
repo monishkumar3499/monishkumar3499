@@ -14,7 +14,7 @@ I'm Monish Kumar!
 
 ## 💻 I'm Currently Working on
 
-- Agentic AI systems using **LangChain**, **LangGraph**, **MCP**, and **LLMs**
+- Agentic AI systems using **LangChain**, **LangGraph**, **MCP**, **RAG** and **LLMs**
 - Distributed microservices platforms on **AWS** (EC2, ELB, RDS), **Azure**
 - Production ML pipelines — churn prediction, document classification, NLP
 
@@ -67,7 +67,7 @@ I'm Monish Kumar!
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <b>💡 Solved 700+ problems across LeetCode, Codeforces, and CodeChef — strong foundation in Data Structures & Algorithms</b>
+  <b>💡 Solved 600+ problems across LeetCode, Codeforces, and CodeChef — strong foundation in Data Structures & Algorithms</b>
 </p>
 
 <p align="center">
