@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monishkumar3499.monishkumar3499) [![GitHub followers](https://img.shields.io/github/followers/monishkumar3499?label=Follow&style=social)](https://github.com/monishkumar3499)
 
-I'm Monish Kumar V!
+I'm Monish Kumar!
 
 - Trainee Software Engineer at **JMAN Group**, building distributed microservices and AI-powered platforms.
 - Final year B.E. student at **Easwari Engineering College (Anna University)**, Chennai.
