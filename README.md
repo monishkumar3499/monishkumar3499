@@ -14,9 +14,9 @@ I'm Monish Kumar!
 
 ## 💻 I'm Currently Working on
 
-- Agentic AI systems using **LangChain**, **LangGraph**, **MCP**, **RAG** and **LLMs**
-- Distributed microservices platforms on **AWS** (EC2, ELB, RDS), **Azure**
-- Production ML pipelines — churn prediction, document classification, NLP
+- 🤖 Agentic AI systems using **LangChain, LangGraph, MCP, RAG, and LLMs**
+- ☁️ Scalable distributed systems & microservices on **AWS (EC2, ELB, RDS) and Azure**
+- ⚡ Full-stack engineering — building **AI-powered web applications and production-grade platforms**
 
 ---
 
