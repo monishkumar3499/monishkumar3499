@@ -16,7 +16,7 @@ I'm Monish Kumar!
 
 - 🤖 Agentic AI systems using **LangChain, LangGraph, MCP, RAG, and LLMs**
 - ☁️ Scalable distributed systems & microservices on **AWS (EC2, ELB, RDS) and Azure**
-- ⚡ Full-stack engineering — building **AI-powered web applications and production-grade platforms**
+- ⚡ Full-stack engineering - building **AI-powered web applications and production-grade platforms**
 
 ---
 
@@ -66,22 +66,28 @@ I'm Monish Kumar!
 
 ## 🧠 Competitive Programming
 
-<p align="center">
-  <b>💡 Solved 600+ problems across LeetCode, Codeforces, and CodeChef — strong foundation in Data Structures & Algorithms</b>
+<p align="left">
+  <b>💡 600+ DSA problems solved - Strengthening performance on Codeforces through consistent practice</b>
+</p>
+<p align="left">
+  <a href="https://leetcode.com/u/Mon1shkumar/">
+    <img src="https://leetcard.jacoblin.cool/Mon1shkumar?theme=light&font=baloo&ext=heatmap"
+         height="170"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/monishkumar3499">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=monishkumar3499"
+         height="170"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Mon1shkumar/">
-    <img src="https://leetcard.jacoblin.cool/Mon1shkumar?theme=light&font=baloo&ext=heatmap" height="170"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/monishkumar3499">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=monishkumar3499" height="170"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/army_whisper">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-  </a>
+<p align="left">
+  <b>
+    Other platforms: 
+    <a href="https://www.codechef.com/users/army_whisper">
+      CodeChef (1400+ rated)
+    </a>
+  </b>
 </p>
 
 ---
